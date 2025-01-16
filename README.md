@@ -36,16 +36,16 @@
 
 | 环境变量            | 描述                              |
 |---------------------|-----------------------------------|
-| `EMAIL`             | GitHub邮箱                         |
+| `EMAIL`             | GitHub邮箱                        |
 | `ACCOUNT`           | 郑州大学移动校园登录账户           |
 | `PASSWORD`          | 郑州大学移动校园登录密码           |
-| `lt_room`           | 照明电量账户                       |
-| `ac_room`           | 空调电量账户                       |
+| `lt_room`           | 照明电量账户                      |
+| `ac_room`           | 空调电量账户                      |
 | `TELEGRAM_BOT_TOKEN`| Telegram Bot Token                |
 | `TELEGRAM_CHAT_ID`  | Telegram Chat ID                  |
 | `SERVERCHAN_KEY`    | Server 酱 API 密钥                |
-| `SERVERCHAN_KEY2`   | 多个Server 酱 API 密钥，          |
-| `SERVERCHAN_KEY3`   | Server 酱 API 密钥，              |
+| `SERVERCHAN_KEY2`   | 多个Server 酱 API 密钥            |
+| `SERVERCHAN_KEY3`   | 多个Server 酱 API 密钥            |
 
 2. **创建数据存储文件夹**：该项目会将数据保存在 `./page/data` 文件夹下，请确保该文件夹存在。
 
