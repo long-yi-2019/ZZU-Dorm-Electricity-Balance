@@ -32,7 +32,7 @@
         let option1 = {
             title: {
                 text: '照明电量',
-                textStyle: { fontSize: 20, fontWeight: 'bold', color: '#0077b6' },
+                textStyle: { fontSize: 20, fontWeight: 'bold' },
                 x: 'center',
                 y: 'top'
             },
@@ -40,23 +40,17 @@
                 name: '时间', 
                 nameLocation: 'end', 
                 type: 'category', 
-                data: [],
-                axisLabel: { color: '#333' },
-                axisLine: { lineStyle: { color: '#0077b6' } }
+                data: [] 
             },
             yAxis: { 
                 name: '电量 (kWh)', 
-                type: 'value',
-                axisLabel: { color: '#333' },
-                axisLine: { lineStyle: { color: '#0077b6' } }
+                type: 'value' 
             },
             series: [{
                 data: [],
                 type: 'line',
                 smooth: true,
-                label: { show: true, position: 'top', color: '#0077b6' },
-                lineStyle: { color: '#0077b6', width: 3 },
-                itemStyle: { color: '#0077b6' }
+                label: { show: true, position: 'top' }
             }],
             tooltip: {
                 trigger: 'axis',
@@ -68,10 +62,7 @@
             dataZoom: [{
                 type: 'slider', 
                 start: 0, 
-                end: 100,
-                backgroundColor: 'rgba(255,255,255,0.8)',
-                dataBackground: { lineStyle: { color: '#0077b6' }, areaStyle: { color: '#0077b6' } },
-                handleStyle: { color: '#0077b6' }
+                end: 100
             }, {
                 type: 'inside', 
                 start: 0, 
@@ -82,7 +73,7 @@
         let option2 = {
             title: {
                 text: '空调电量',
-                textStyle: { fontSize: 20, fontWeight: 'bold', color: '#e63946' },
+                textStyle: { fontSize: 20, fontWeight: 'bold' },
                 x: 'center',
                 y: 'top'
             },
@@ -90,23 +81,17 @@
                 name: '时间', 
                 nameLocation: 'end', 
                 type: 'category', 
-                data: [],
-                axisLabel: { color: '#333' },
-                axisLine: { lineStyle: { color: '#e63946' } }
+                data: [] 
             },
             yAxis: { 
                 name: '电量 (kWh)', 
-                type: 'value',
-                axisLabel: { color: '#333' },
-                axisLine: { lineStyle: { color: '#e63946' } }
+                type: 'value' 
             },
             series: [{
                 data: [],
                 type: 'line',
                 smooth: true,
-                label: { show: true, position: 'top', color: '#e63946' },
-                lineStyle: { color: '#e63946', width: 3 },
-                itemStyle: { color: '#e63946' }
+                label: { show: true, position: 'top' }
             }],
             tooltip: {
                 trigger: 'axis',
@@ -118,10 +103,7 @@
             dataZoom: [{
                 type: 'slider', 
                 start: 0, 
-                end: 100,
-                backgroundColor: 'rgba(255,255,255,0.8)',
-                dataBackground: { lineStyle: { color: '#e63946' }, areaStyle: { color: '#e63946' } },
-                handleStyle: { color: '#e63946' }
+                end: 100
             }, {
                 type: 'inside', 
                 start: 0, 
