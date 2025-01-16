@@ -1,0 +1,4 @@
+PyNaCl
+Requests
+Zzupy
+Pytz
