@@ -129,17 +129,18 @@ class DataManager:
         except Exception as e:
             logger.error(f"保存数据到文件失败：{file_path}，错误信息：{e}")
 
+class DataManager:
     @staticmethod
-    def get_shanghai_time_str(format: str) -> str:
-        """获取当前上海时间并按照指定格式返回"""
-        shanghai_tz = pytz.timezone('Asia/Shanghai')
-        shanghai_time = datetime.now(shanghai_tz)
-        return shanghai_time.strftime(format)
+    def get_cst_time_str(format: str) -> str:
+        """获取当前 CST（北京时间）并按照指定格式返回"""
+        cst_tz = pytz.timezone('Asia/Shanghai')  # 上海时区（即北京时间）
+        cst_time = datetime.now(cst_tz)
+        return cst_time.strftime(format)
 
     @staticmethod
     def record_data(data: dict | list) -> list[dict] | None:
         """将最新的电量数据记录到 JSON 文件"""
-        file_path = f"{JSON_FOLDER_PATH}/{DataManager.get_shanghai_time_str('%Y-%m')}.json"
+        file_path = f"{JSON_FOLDER_PATH}/{DataManager.get_cst_time_str('%Y-%m')}.json"
         result = DataManager.load_data_from_json(file_path) or []
 
         if result and result[-1]["lt_Balance"] == data["lt_Balance"] and result[-1]["ac_Balance"] == data["ac_Balance"]:
