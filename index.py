@@ -192,7 +192,7 @@ def main():
         NotificationManager.notify_admin("🏠宿舍电量通报🏠", report_content)
 
     latest_record = {
-        "time": DataManager.get_shanghai_time_str("%m-%d %H:%M:%S"),
+        "time": DataManager.get_cst_time_str("%m-%d %H:%M:%S"),
         "lt_Balance": balances["lt_Balance"],
         "ac_Balance": balances["ac_Balance"]
     }
