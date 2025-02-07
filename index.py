@@ -129,7 +129,6 @@ class DataManager:
         except Exception as e:
             logger.error(f"保存数据到文件失败：{file_path}，错误信息：{e}")
 
-class DataManager:
     @staticmethod
     def get_cst_time_str(format: str) -> str:
         """获取当前 CST（北京时间）并按照指定格式返回"""
