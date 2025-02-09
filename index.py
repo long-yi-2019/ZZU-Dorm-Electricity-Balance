@@ -41,7 +41,7 @@ class EnergyMonitor:
         lt_balance = self.zzupy.eCard.get_remaining_power(lt_room)
         ac_balance = self.zzupy.eCard.get_remaining_power(ac_room)
         logger.info(f"照明剩余电量：{lt_balance} 度，空调剩余电量：{ac_balance} 度")
-        return {"lt_Balance": float(lt_balance), "ac_Balance": float(ac_balance)}
+        return {"lt_Balance": lt_balance, "ac_Balance": ac_balance}
 
 class NotificationManager:
     @staticmethod
