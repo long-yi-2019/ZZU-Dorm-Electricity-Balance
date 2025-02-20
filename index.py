@@ -7,7 +7,6 @@ from zzupy import ZZUPy
 import requests
 import json
 import os
-import httpx  # 导入httpx
 
 # 配置日志
 logging.basicConfig(level=logging.INFO)
@@ -39,10 +38,8 @@ class EnergyMonitor:
         self.zzupy.login()
         logger.info("登录成功")
         logger.info("获取照明和空调电量余额...")
-
         lt_balance = self.zzupy.eCard.get_remaining_power(lt_room)
         ac_balance = self.zzupy.eCard.get_remaining_power(ac_room)
-
         logger.info(f"照明剩余电量：{lt_balance} 度，空调剩余电量：{ac_balance} 度")
         return {"lt_Balance": lt_balance, "ac_Balance": ac_balance}
 
@@ -179,26 +176,6 @@ class DataManager:
         DataManager.dump_data_into_json(existing_data[-MAX_DISPLAY_NUM:], f"{JSON_FOLDER_PATH}/last_30_records.json")
         logger.info("数据解析和更新完成")
 
-class ZZUPy:
-    # 省略其他部分...
-
-    def _get_eacrd_access_token(self):
-        """获取 eCard 访问令牌，添加超时设置"""
-        try:
-            # 设置超时为10秒
-            response = httpx.post(self._auth_url, data=self._auth_payload, timeout=10)
-            response.raise_for_status()  # 如果请求返回失败的状态码，会抛出异常
-            return response.json()
-        except httpx.RequestTimeout:
-            logger.error("请求超时，请检查网络连接。")
-            raise  # 可以根据需求处理异常，例如重试
-        except httpx.HTTPStatusError as e:
-            logger.error(f"请求失败，状态码：{e.response.status_code}")
-            raise
-        except httpx.HTTPError as e:
-            logger.error(f"请求过程中发生错误：{e}")
-            raise
-
 def main():
     logger.info("启动宿舍电量监控程序...")
     monitor = EnergyMonitor()
@@ -210,11 +187,17 @@ def main():
         report_content += "⚠️ 电量不足，请尽快充电！"
         NotificationManager.notify_admin("⚠️宿舍电量预警⚠️", report_content)
     else:
-        report_content += "请及时关注电量，避免过度耗损。"
-        NotificationManager.notify_admin("宿舍电量状态", report_content)
+        report_content += "请及时关注电量，避免设备关闭。"
+        NotificationManager.notify_admin("🏠宿舍电量通报🏠", report_content)
 
-    data = {"lt_Balance": balances["lt_Balance"], "ac_Balance": balances["ac_Balance"], "time": DataManager.get_cst_time_str('%Y-%m-%d %H:%M:%S')}
-    DataManager.record_data(data)
+    latest_record = {
+        "time": DataManager.get_cst_time_str("%m-%d %H:%M:%S"),
+        "lt_Balance": balances["lt_Balance"],
+        "ac_Balance": balances["ac_Balance"]
+    }
+    data = DataManager.record_data(latest_record)
+    DataManager.parse_and_update_data(data)
+    logger.info("程序运行结束")
 
 if __name__ == "__main__":
     main()
