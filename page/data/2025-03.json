@@ -1,0 +1,32 @@
+[
+    {
+        "time": "03-01 00:28:04",
+        "lt_Balance": 244.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-01 12:25:34",
+        "lt_Balance": 242.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-01 15:19:28",
+        "lt_Balance": 240.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-01 18:21:39",
+        "lt_Balance": 238.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-01 21:23:20",
+        "lt_Balance": 236.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-02 00:24:48",
+        "lt_Balance": 234.8,
+        "ac_Balance": 54.5
+    }
+]
