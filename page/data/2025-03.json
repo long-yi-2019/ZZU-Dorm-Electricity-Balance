@@ -1,5 +1,95 @@
 [
     {
+        "time": "03-01 00:28:04",
+        "lt_Balance": 244.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-01 12:25:34",
+        "lt_Balance": 242.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-01 15:19:28",
+        "lt_Balance": 240.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-01 18:21:39",
+        "lt_Balance": 238.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-01 21:23:20",
+        "lt_Balance": 236.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-02 00:24:48",
+        "lt_Balance": 234.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-02 12:24:51",
+        "lt_Balance": 231.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-02 15:18:55",
+        "lt_Balance": 230.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-02 18:21:51",
+        "lt_Balance": 228.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-02 21:22:34",
+        "lt_Balance": 226.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-03 00:25:02",
+        "lt_Balance": 222.8,
+        "ac_Balance": 54.5
+    },
+    {
+        "time": "03-03 12:27:42",
+        "lt_Balance": 220.8,
+        "ac_Balance": 54.4
+    },
+    {
+        "time": "03-03 15:22:07",
+        "lt_Balance": 219.8,
+        "ac_Balance": 54.4
+    },
+    {
+        "time": "03-03 18:25:01",
+        "lt_Balance": 217.8,
+        "ac_Balance": 54.4
+    },
+    {
+        "time": "03-03 21:29:25",
+        "lt_Balance": 215.8,
+        "ac_Balance": 54.4
+    },
+    {
+        "time": "03-04 00:27:49",
+        "lt_Balance": 213.8,
+        "ac_Balance": 54.4
+    },
+    {
+        "time": "03-04 12:26:10",
+        "lt_Balance": 211.8,
+        "ac_Balance": 54.4
+    },
+    {
+        "time": "03-04 15:21:31",
+        "lt_Balance": 210.8,
+        "ac_Balance": 54.4
+    },
+    {
         "time": "03-04 18:24:34",
         "lt_Balance": 209.8,
         "ac_Balance": 54.4
