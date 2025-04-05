@@ -1,35 +1,5 @@
 [
     {
-        "time": "03-30 18:44:28",
-        "lt_Balance": 11.8,
-        "ac_Balance": 53.7
-    },
-    {
-        "time": "03-30 21:26:09",
-        "lt_Balance": 9.8,
-        "ac_Balance": 53.7
-    },
-    {
-        "time": "03-31 00:26:12",
-        "lt_Balance": 6.8,
-        "ac_Balance": 53.6
-    },
-    {
-        "time": "03-31 15:23:44",
-        "lt_Balance": 4.8,
-        "ac_Balance": 53.6
-    },
-    {
-        "time": "03-31 18:26:03",
-        "lt_Balance": 180.3,
-        "ac_Balance": 53.6
-    },
-    {
-        "time": "03-31 21:32:03",
-        "lt_Balance": 179.3,
-        "ac_Balance": 53.6
-    },
-    {
         "time": "04-01 00:29:30",
         "lt_Balance": 177.3,
         "ac_Balance": 53.6
