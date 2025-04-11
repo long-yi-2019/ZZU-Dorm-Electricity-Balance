@@ -1,5 +1,100 @@
 [
     {
+        "time": "04-01 00:29:30",
+        "lt_Balance": 177.3,
+        "ac_Balance": 53.6
+    },
+    {
+        "time": "04-01 12:29:30",
+        "lt_Balance": 176.3,
+        "ac_Balance": 53.6
+    },
+    {
+        "time": "04-01 15:23:49",
+        "lt_Balance": 175.3,
+        "ac_Balance": 53.6
+    },
+    {
+        "time": "04-01 18:26:01",
+        "lt_Balance": 174.3,
+        "ac_Balance": 53.6
+    },
+    {
+        "time": "04-01 21:33:08",
+        "lt_Balance": 173.3,
+        "ac_Balance": 53.6
+    },
+    {
+        "time": "04-02 00:28:47",
+        "lt_Balance": 172.3,
+        "ac_Balance": 53.6
+    },
+    {
+        "time": "04-02 12:27:19",
+        "lt_Balance": 170.3,
+        "ac_Balance": 53.6
+    },
+    {
+        "time": "04-02 18:25:39",
+        "lt_Balance": 169.3,
+        "ac_Balance": 53.6
+    },
+    {
+        "time": "04-02 21:31:42",
+        "lt_Balance": 167.3,
+        "ac_Balance": 53.6
+    },
+    {
+        "time": "04-03 00:30:55",
+        "lt_Balance": 165.3,
+        "ac_Balance": 53.5
+    },
+    {
+        "time": "04-03 12:29:21",
+        "lt_Balance": 163.3,
+        "ac_Balance": 53.5
+    },
+    {
+        "time": "04-03 15:22:45",
+        "lt_Balance": 162.3,
+        "ac_Balance": 53.5
+    },
+    {
+        "time": "04-03 18:24:49",
+        "lt_Balance": 161.3,
+        "ac_Balance": 53.5
+    },
+    {
+        "time": "04-03 21:31:40",
+        "lt_Balance": 160.3,
+        "ac_Balance": 53.5
+    },
+    {
+        "time": "04-04 00:28:54",
+        "lt_Balance": 158.3,
+        "ac_Balance": 53.5
+    },
+    {
+        "time": "04-04 12:27:13",
+        "lt_Balance": 155.3,
+        "ac_Balance": 53.5
+    },
+    {
+        "time": "04-04 18:25:00",
+        "lt_Balance": 154.3,
+        "ac_Balance": 53.5
+    },
+    {
+        "time": "04-04 21:30:51",
+        "lt_Balance": 153.3,
+        "ac_Balance": 53.5
+    },
+    {
+        "time": "04-05 00:28:14",
+        "lt_Balance": 151.3,
+        "ac_Balance": 53.5
+    },
+    {
         "time": "04-05 12:26:32",
         "lt_Balance": 149.3,
         "ac_Balance": 53.5
