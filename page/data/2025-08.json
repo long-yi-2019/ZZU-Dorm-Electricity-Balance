@@ -1,0 +1,42 @@
+[
+    {
+        "time": "08-01 00:34:34",
+        "lt_Balance": 112.8,
+        "ac_Balance": 12.6
+    },
+    {
+        "time": "08-01 12:56:34",
+        "lt_Balance": 111.8,
+        "ac_Balance": 9.6
+    },
+    {
+        "time": "08-01 18:29:32",
+        "lt_Balance": 110.8,
+        "ac_Balance": 8.6
+    },
+    {
+        "time": "08-01 21:41:20",
+        "lt_Balance": 109.8,
+        "ac_Balance": 6.6
+    },
+    {
+        "time": "08-02 00:34:45",
+        "lt_Balance": 108.8,
+        "ac_Balance": 5.6
+    },
+    {
+        "time": "08-02 12:39:07",
+        "lt_Balance": 108.8,
+        "ac_Balance": 1.6
+    },
+    {
+        "time": "08-02 18:26:37",
+        "lt_Balance": 107.8,
+        "ac_Balance": 1.6
+    },
+    {
+        "time": "08-02 21:34:50",
+        "lt_Balance": 106.8,
+        "ac_Balance": 70.2
+    }
+]
