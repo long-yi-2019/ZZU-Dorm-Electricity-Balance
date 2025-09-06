@@ -1,45 +1,5 @@
 [
     {
-        "time": "08-29 21:31:07",
-        "lt_Balance": 20.2,
-        "ac_Balance": 33.9
-    },
-    {
-        "time": "08-30 00:29:03",
-        "lt_Balance": 19.2,
-        "ac_Balance": 32.9
-    },
-    {
-        "time": "08-30 12:26:35",
-        "lt_Balance": 18.2,
-        "ac_Balance": 30.9
-    },
-    {
-        "time": "08-30 21:25:40",
-        "lt_Balance": 17.2,
-        "ac_Balance": 30.9
-    },
-    {
-        "time": "08-31 00:26:23",
-        "lt_Balance": 16.2,
-        "ac_Balance": 30.3
-    },
-    {
-        "time": "08-31 12:26:54",
-        "lt_Balance": 15.2,
-        "ac_Balance": 30.3
-    },
-    {
-        "time": "08-31 18:21:59",
-        "lt_Balance": 14.2,
-        "ac_Balance": 30.3
-    },
-    {
-        "time": "08-31 21:26:35",
-        "lt_Balance": 13.2,
-        "ac_Balance": 30.3
-    },
-    {
         "time": "09-01 00:26:37",
         "lt_Balance": 11.2,
         "ac_Balance": 29.9
