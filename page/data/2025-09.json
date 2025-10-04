@@ -1,0 +1,612 @@
+[
+    {
+        "time": "09-01 00:26:37",
+        "lt_Balance": 11.2,
+        "ac_Balance": 29.9
+    },
+    {
+        "time": "09-01 12:33:40",
+        "lt_Balance": 10.2,
+        "ac_Balance": 27.9
+    },
+    {
+        "time": "09-02 00:28:37",
+        "lt_Balance": 8.2,
+        "ac_Balance": 26.9
+    },
+    {
+        "time": "09-02 12:29:00",
+        "lt_Balance": 8.2,
+        "ac_Balance": 24.9
+    },
+    {
+        "time": "09-02 15:23:24",
+        "lt_Balance": 7.3,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-03 00:29:45",
+        "lt_Balance": 5.3,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-03 12:27:28",
+        "lt_Balance": 4.3,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-03 15:21:57",
+        "lt_Balance": 179.5,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-03 21:31:29",
+        "lt_Balance": 360.2,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-04 00:29:20",
+        "lt_Balance": 359.2,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-04 12:26:59",
+        "lt_Balance": 357.2,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-04 15:22:13",
+        "lt_Balance": 356.2,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-04 18:24:08",
+        "lt_Balance": 355.2,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-04 21:30:26",
+        "lt_Balance": 354.2,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-05 00:29:43",
+        "lt_Balance": 352.2,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-05 12:27:31",
+        "lt_Balance": 351.2,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-05 15:22:00",
+        "lt_Balance": 350.2,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-05 18:24:58",
+        "lt_Balance": 349.2,
+        "ac_Balance": 24.0
+    },
+    {
+        "time": "09-05 21:30:24",
+        "lt_Balance": 348.2,
+        "ac_Balance": 23.0
+    },
+    {
+        "time": "09-06 00:26:16",
+        "lt_Balance": 347.2,
+        "ac_Balance": 23.0
+    },
+    {
+        "time": "09-06 15:19:08",
+        "lt_Balance": 345.2,
+        "ac_Balance": 23.0
+    },
+    {
+        "time": "09-06 18:21:12",
+        "lt_Balance": 344.2,
+        "ac_Balance": 23.0
+    },
+    {
+        "time": "09-07 12:26:33",
+        "lt_Balance": 341.2,
+        "ac_Balance": 23.0
+    },
+    {
+        "time": "09-07 15:19:25",
+        "lt_Balance": 339.2,
+        "ac_Balance": 23.0
+    },
+    {
+        "time": "09-07 18:21:19",
+        "lt_Balance": 338.2,
+        "ac_Balance": 23.0
+    },
+    {
+        "time": "09-07 21:24:20",
+        "lt_Balance": 337.2,
+        "ac_Balance": 23.0
+    },
+    {
+        "time": "09-08 00:25:32",
+        "lt_Balance": 336.2,
+        "ac_Balance": 23.0
+    },
+    {
+        "time": "09-08 15:23:20",
+        "lt_Balance": 333.2,
+        "ac_Balance": 22.0
+    },
+    {
+        "time": "09-08 18:26:21",
+        "lt_Balance": 332.2,
+        "ac_Balance": 22.0
+    },
+    {
+        "time": "09-08 21:33:33",
+        "lt_Balance": 331.2,
+        "ac_Balance": 22.0
+    },
+    {
+        "time": "09-09 00:29:16",
+        "lt_Balance": 329.2,
+        "ac_Balance": 21.9
+    },
+    {
+        "time": "09-09 12:28:00",
+        "lt_Balance": 327.2,
+        "ac_Balance": 21.9
+    },
+    {
+        "time": "09-09 15:23:32",
+        "lt_Balance": 325.2,
+        "ac_Balance": 21.9
+    },
+    {
+        "time": "09-09 18:25:21",
+        "lt_Balance": 324.2,
+        "ac_Balance": 21.9
+    },
+    {
+        "time": "09-09 21:35:10",
+        "lt_Balance": 323.2,
+        "ac_Balance": 21.9
+    },
+    {
+        "time": "09-10 12:26:18",
+        "lt_Balance": 320.2,
+        "ac_Balance": 21.9
+    },
+    {
+        "time": "09-10 18:23:51",
+        "lt_Balance": 318.2,
+        "ac_Balance": 21.9
+    },
+    {
+        "time": "09-10 21:30:34",
+        "lt_Balance": 317.2,
+        "ac_Balance": 21.9
+    },
+    {
+        "time": "09-11 00:29:09",
+        "lt_Balance": 315.2,
+        "ac_Balance": 21.9
+    },
+    {
+        "time": "09-11 12:27:36",
+        "lt_Balance": 313.2,
+        "ac_Balance": 21.0
+    },
+    {
+        "time": "09-11 15:22:21",
+        "lt_Balance": 311.2,
+        "ac_Balance": 21.0
+    },
+    {
+        "time": "09-11 18:23:52",
+        "lt_Balance": 309.2,
+        "ac_Balance": 21.0
+    },
+    {
+        "time": "09-12 00:28:32",
+        "lt_Balance": 306.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-12 12:26:12",
+        "lt_Balance": 303.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-12 18:25:03",
+        "lt_Balance": 302.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-12 21:29:30",
+        "lt_Balance": 301.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-13 00:24:54",
+        "lt_Balance": 300.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-13 12:25:56",
+        "lt_Balance": 298.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-13 18:21:12",
+        "lt_Balance": 296.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-13 21:23:04",
+        "lt_Balance": 295.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-14 00:24:18",
+        "lt_Balance": 294.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-14 12:26:03",
+        "lt_Balance": 292.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-14 15:19:25",
+        "lt_Balance": 291.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-14 18:20:13",
+        "lt_Balance": 290.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-14 21:22:30",
+        "lt_Balance": 289.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-15 00:24:02",
+        "lt_Balance": 288.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-15 12:28:34",
+        "lt_Balance": 286.2,
+        "ac_Balance": 20.6
+    },
+    {
+        "time": "09-15 18:25:40",
+        "lt_Balance": 284.2,
+        "ac_Balance": 19.0
+    },
+    {
+        "time": "09-16 00:29:55",
+        "lt_Balance": 281.2,
+        "ac_Balance": 17.8
+    },
+    {
+        "time": "09-16 12:27:33",
+        "lt_Balance": 279.2,
+        "ac_Balance": 17.8
+    },
+    {
+        "time": "09-16 15:23:30",
+        "lt_Balance": 278.2,
+        "ac_Balance": 17.8
+    },
+    {
+        "time": "09-16 18:24:44",
+        "lt_Balance": 277.2,
+        "ac_Balance": 17.8
+    },
+    {
+        "time": "09-17 00:29:34",
+        "lt_Balance": 274.2,
+        "ac_Balance": 17.8
+    },
+    {
+        "time": "09-17 12:27:59",
+        "lt_Balance": 273.2,
+        "ac_Balance": 17.8
+    },
+    {
+        "time": "09-17 15:22:28",
+        "lt_Balance": 272.2,
+        "ac_Balance": 17.8
+    },
+    {
+        "time": "09-17 21:31:10",
+        "lt_Balance": 270.2,
+        "ac_Balance": 17.8
+    },
+    {
+        "time": "09-18 00:29:41",
+        "lt_Balance": 268.2,
+        "ac_Balance": 17.7
+    },
+    {
+        "time": "09-18 12:28:16",
+        "lt_Balance": 266.2,
+        "ac_Balance": 17.7
+    },
+    {
+        "time": "09-18 15:22:36",
+        "lt_Balance": 265.2,
+        "ac_Balance": 17.7
+    },
+    {
+        "time": "09-18 21:30:56",
+        "lt_Balance": 263.2,
+        "ac_Balance": 17.7
+    },
+    {
+        "time": "09-19 00:28:47",
+        "lt_Balance": 261.2,
+        "ac_Balance": 17.7
+    },
+    {
+        "time": "09-19 12:27:40",
+        "lt_Balance": 259.2,
+        "ac_Balance": 17.7
+    },
+    {
+        "time": "09-19 15:22:04",
+        "lt_Balance": 258.2,
+        "ac_Balance": 17.7
+    },
+    {
+        "time": "09-20 12:26:39",
+        "lt_Balance": 252.2,
+        "ac_Balance": 17.7
+    },
+    {
+        "time": "09-20 15:19:52",
+        "lt_Balance": 251.2,
+        "ac_Balance": 17.7
+    },
+    {
+        "time": "09-20 21:25:06",
+        "lt_Balance": 250.2,
+        "ac_Balance": 17.7
+    },
+    {
+        "time": "09-21 00:25:25",
+        "lt_Balance": 249.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-21 12:27:02",
+        "lt_Balance": 246.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-21 15:18:43",
+        "lt_Balance": 245.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-21 18:21:42",
+        "lt_Balance": 244.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-21 21:25:05",
+        "lt_Balance": 243.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-22 00:26:23",
+        "lt_Balance": 242.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-22 12:27:57",
+        "lt_Balance": 239.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-22 15:24:57",
+        "lt_Balance": 238.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-22 18:26:36",
+        "lt_Balance": 236.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-22 21:32:44",
+        "lt_Balance": 235.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-23 00:30:21",
+        "lt_Balance": 233.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-23 12:27:43",
+        "lt_Balance": 230.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-23 18:24:56",
+        "lt_Balance": 229.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-23 21:32:23",
+        "lt_Balance": 227.2,
+        "ac_Balance": 17.6
+    },
+    {
+        "time": "09-24 00:29:57",
+        "lt_Balance": 225.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-24 12:27:40",
+        "lt_Balance": 223.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-24 15:23:26",
+        "lt_Balance": 222.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-24 18:24:55",
+        "lt_Balance": 221.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-25 00:30:40",
+        "lt_Balance": 216.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-25 12:27:54",
+        "lt_Balance": 214.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-25 15:23:38",
+        "lt_Balance": 213.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-25 18:25:22",
+        "lt_Balance": 212.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-25 21:33:06",
+        "lt_Balance": 211.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-26 00:29:37",
+        "lt_Balance": 210.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-26 12:27:53",
+        "lt_Balance": 207.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-26 15:23:12",
+        "lt_Balance": 206.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-26 18:25:09",
+        "lt_Balance": 205.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-26 21:30:53",
+        "lt_Balance": 203.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-27 00:29:35",
+        "lt_Balance": 201.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-27 12:26:39",
+        "lt_Balance": 199.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-27 15:18:39",
+        "lt_Balance": 197.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-27 18:21:20",
+        "lt_Balance": 195.2,
+        "ac_Balance": 17.5
+    },
+    {
+        "time": "09-28 00:25:54",
+        "lt_Balance": 192.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-28 12:26:50",
+        "lt_Balance": 189.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-28 15:19:03",
+        "lt_Balance": 188.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-28 18:21:43",
+        "lt_Balance": 187.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-28 21:25:02",
+        "lt_Balance": 185.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-29 00:24:56",
+        "lt_Balance": 184.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-29 12:29:05",
+        "lt_Balance": 181.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-29 15:24:07",
+        "lt_Balance": 180.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-29 21:33:04",
+        "lt_Balance": 178.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-30 00:24:16",
+        "lt_Balance": 176.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-30 12:28:07",
+        "lt_Balance": 173.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-30 15:24:01",
+        "lt_Balance": 172.2,
+        "ac_Balance": 17.4
+    },
+    {
+        "time": "09-30 18:25:45",
+        "lt_Balance": 172.2,
+        "ac_Balance": 16.0
+    },
+    {
+        "time": "09-30 21:32:54",
+        "lt_Balance": 170.2,
+        "ac_Balance": 15.0
+    }
+]
